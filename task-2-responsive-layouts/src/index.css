@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@400;500;600;700&family=Lato:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #070410;
+  color: #ffffff;
+  font-family: "Lato", sans-serif;
+}
+
+button,
+a {
+  font-family: "Teko", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
